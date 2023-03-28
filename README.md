@@ -1,7 +1,5 @@
 Welcome to my Client Server Messaging application! I wrote this program in C to demonstrate UDP (User Datagram Protocol), which is a connectionless protocol. 
 
-How to run: 
-
 Prerequisite: Have or create a file that you want to send.
 
 Run these commands in this order to run the program
